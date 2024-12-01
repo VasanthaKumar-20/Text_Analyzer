@@ -1,5 +1,5 @@
 # Text Analyzer 📊 
-Welcome to **Text Analyzer**, a powerful RESTful API for analyzing text data! Built with **Django REST Framework (DRF)**, this tool provides insightful analytics on text input, including word count, sentiment analysis, and language detection.
+Welcome to **Text Analyzer**, a powerful RESTful API for analyzing text data! Built with **Django REST Framework**, this tool provides insightful analytics on text input, including word count, sentiment analysis, and language detection.
 
 # Features
 - **Word Count**: Calculate total words and unique word occurrences.
